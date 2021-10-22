@@ -3,7 +3,7 @@
 ## Annotated Country-Level Dialectal Arabic Corpus: An Unsupervised Approach 
 
 The annotated dialectal Arabic corpus (Twt15DA) is collected from Twitter and consists of 311,785 tweets containing 3,858,459 words in total.
-The unsupervised approach to build the corpus uses an iterative procedure consisting of three main steps: automatic creation of dialectal word lists, selection of seed words, and collection of dialectal sentences. The Pointwise Mutual Information (PMI) association measure, along with the geographical frequency of word occurrence online are used to classify dialectal words. The poor performance of MSA POS tagger on dialectal Arabic contents is exploit in order to extract the dialectal words. 
+The unsupervised approach to build the corpus uses an iterative procedure consisting of three main steps: automatic creation of dialectal word lists, selection of seed words, and collection of dialectal sentences. The Pointwise Mutual Information (PMI) association measure, along with the geographical frequency of word occurrence online are used to classify dialectal words. The poor performance of MSA POS tagger on dialectal Arabic contents is exploited in order to extract the dialectal words. 
 
 The Twt15DA corpus is available in a manner similar to the TREC Microblog Track [(McCreadie et al., 2012)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+On+building+a+reusable+Twitter+corpus&btnG=), releasing only User ID and Tweet ID pairs along with annotations. The User
 ID and Tweet ID can be used to crawl Twitter. 
